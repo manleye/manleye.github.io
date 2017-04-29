@@ -1,14 +1,18 @@
 ---
 layout: post
-title: Example content
+title: Eugene Manley's Page
 ---
 
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Hello. Welcome to my page.
 </div>
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+I am currently a Postdoctoral Fellow at  <a href="#">Oregon Health and Science University </a>, https:www.ohsu.edu in the Department of Developmental, Cell, & Cancer Biology. Here I am studying how actin based structures on the ventral surface of cells , called invadopoia, regulate breast cancer growth in 3D Type I collagen environments.  Invadoopodia are required for proliferation, invasion, and metastasis of melanomas and breast, prostate, colon, and lung cancer.  I am also working to identify an invadopodia related gene signature that can be used to predict metastatic risk in breast cancer patient samples. 
+
+Broadly, I am trained as a Biomedical Engineer, Mechanical Engineer, and Molecular Biologist. My Ph.D. is in Molecular Biology, Cell Biology, & Biochemistry from Boston University; my M.S. is Biomedical Engineering from the University of Wisconsin-Madison; and my B.S. is in Mechanical Engineering from Michigan Technological University. My PhD research dealt with anticancer drug screening, angiogenesis, cancer stem cells, and micraoarry analysis. My M.S. involved viscoelastic testing of rat medial collateral ligaments. I discovered that ligaments only needed to be tested for 100s to have an accurate prediction of viscoelastic properties, and this greatly reduces the time needed to do conduct testing between groups.
+
+*Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
